@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AkayTube</string>
+    <string name="videoTitle">Video Title</string>
+    <string name="comment1">This is comment 1</string>
+    <string name="comment2">This is comment 2</string>
+    <string name="comment3">This is comment 3</string>
+</resources>
